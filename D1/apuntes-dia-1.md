@@ -1,4 +1,4 @@
-# Apuntes
+# Apuntes Día 1
 
 Python es un _lenguaje de programación_ (como aprender un nuevo idioma).
 
