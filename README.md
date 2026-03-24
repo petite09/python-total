@@ -27,10 +27,10 @@ Cada carpeta corresponde a un día de contenido del curso y contiene el archivo 
 
 
 
-## Contenidos
+## Contenidos y mini proyectos
 | Día | Proyecto | Temáticas | Apuntes
 |-----|------|-------------|-----|
-| 1 | Creador de nombres | ``print``, Strings, ``input``| [INSERTAR MARKDOWN]()
+| 1 | [Creador de nombres](https://github.com/petite09/python-total/blob/main/D1/D%C3%ADa_1_Programa_un_creador_de_nombres.ipynb) | ``print``, Strings, ``input``| [apuntes-dia-1](https://github.com/petite09/python-total/blob/main/D1/apuntes-dia-1.md)
 | 2 | Calculador de comisiones | tipos de datos, variables, integers y floats, conversiones entre tipos de datos, formatear cadenas, operadores matemáticos, redondeo.
 | 3 | Analizador de texto | método index (), extraer sub-strings, métrodos de string, propiedades de strings, diccionarios, tuplas, sets, booleanos.
 | 4 | Juego "Adivina el número" | ads | dasd|
